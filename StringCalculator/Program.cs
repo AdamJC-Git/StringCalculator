@@ -3,6 +3,7 @@
 try
 {
     Console.WriteLine("Enter a string of numbers please.");
+    //var input = Console.ReadLine();
     var input = "//;\n2;4;6;8";
 
     //test the StringCalculator Add method with a string of numbers
